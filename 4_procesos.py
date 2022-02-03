@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Admin
+@author: Alfonso
 """
 
 from multiprocessing import Process
