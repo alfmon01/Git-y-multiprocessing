@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb  3 19:33:28 2022
 
-@author: Admin
+@author: Alfonso
 """
 
 from multiprocessing import Process
