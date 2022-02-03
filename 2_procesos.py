@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb  3 19:32:01 2022
 
-@author: Admin
+@author: Alfonso
 """
 
 import time
