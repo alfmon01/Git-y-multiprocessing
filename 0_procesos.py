@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  3 18:20:56 2022
 
-@author: Alfonsete
+@author: Alfonso
 """
 
 from time import sleep
